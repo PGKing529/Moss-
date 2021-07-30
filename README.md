@@ -5,7 +5,7 @@
 
 import mosspy
 
-userid = 241958773 
+userid = 123456789 
 
 m = mosspy.Moss(userid, "python")
 
